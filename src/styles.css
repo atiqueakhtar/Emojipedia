@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.search {
+  padding: 10px;
+  font-size: 20px;
+  border: 2px solid black;
+}
+
+.emojis {
+  cursor: pointer;
+  font-size: 2rem;
+  margin: 0.8rem;
+}
